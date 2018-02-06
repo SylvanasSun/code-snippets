@@ -11,9 +11,11 @@ This repository store my code snippets and it contains the algorithms, utility c
     - machine learning
     - sort
     - toy
-- components
-    - package scanner
 - data structure
     - tree
+    ...
+- java_components
+    - package scanner
+- python_components
     ...
 ```
